@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<dragon>
+		<id>0</id>
+		<name>lox</name>
+		<coordinates>{30; 355.0}</coordinates>
+		<creationDate>2022-03-15T00:35:24.976110500</creationDate>
+		<age>3243</age>
+		<color>WHITE</color>
+		<type>WATER</type>
+		<character>EVIL</character>
+		<head>{3433; 66356; 1342454}</head>
+	</dragon>
+	<dragon>
+		<id>1</id>
+		<name>tozelox</name>
+		<coordinates>{20; 34.0}</coordinates>
+		<creationDate>2022-03-15T00:37:34.314590400</creationDate>
+		<age>234</age>
+		<color>GREEN</color>
+		<type>UNDERGROUND</type>
+		<character>CUNNING</character>
+		<head>{1; 50; 234}</head>
+	</dragon>
+</set>

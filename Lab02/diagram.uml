@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1822.25" y="1289.0">ru.ifmo.se.pokemon.StatusMove</node>
+    <node x="544.0" y="1500.0">MyMove.Confusion</node>
+    <node x="4.5" y="851.0">MyPokemon.Electivire</node>
+    <node x="0.0" y="751.0">MyPokemon.Electabuzz</node>
+    <node x="362.0" y="651.0">MyPokemon.Solrock</node>
+    <node x="153.0" y="1511.0">MyMove.DoubleSlap</node>
+    <node x="185.0" y="751.0">MyPokemon.Cofagrigus</node>
+    <node x="306.0" y="1500.0">MyMove.HeartStamp</node>
+    <node x="12.5" y="651.0">MyPokemon.Elekid</node>
+    <node x="1966.0" y="1500.0">MyMove.Swagger</node>
+    <node x="868.5" y="946.0">ru.ifmo.se.pokemon.Move</node>
+    <node x="194.0" y="651.0">MyPokemon.Yamask</node>
+    <node x="2204.0" y="1500.0">MyMove.WorkUp</node>
+    <node x="866.0" y="1311.0">ru.ifmo.se.pokemon.SpecialMove</node>
+    <node x="1258.0" y="1500.0">MyMove.FocusBlast</node>
+    <node x="80.5" y="0.0">ru.ifmo.se.pokemon.Pokemon</node>
+    <node x="0.0" y="1511.0">MyMove.DoubleKick</node>
+    <node x="782.0" y="1500.0">MyMove.IceBeam</node>
+    <node x="76.648611111111" y="1311.0">ru.ifmo.se.pokemon.PhysicalMove</node>
+    <node x="1020.0" y="1500.0">MyMove.EnergyBall</node>
+    <node x="1731.0" y="1500.0">MyMove.Rest</node>
+    <node x="1496.0" y="1500.0">MyMove.DoubleTeam</node>
+    <node x="0.0" y="1640.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MyPokemon.Electabuzz" target="MyPokemon.Elekid">
+      <point x="0.0" y="-25.0" />
+      <point x="0.0" y="25.0" />
+    </edge>
+    <edge source="MyMove.Rest" target="ru.ifmo.se.pokemon.StatusMove">
+      <point x="0.0" y="-47.5" />
+      <point x="1838.5" y="1480.0" />
+      <point x="1923.125" y="1480.0" />
+      <point x="-33.625" y="80.5" />
+    </edge>
+    <edge source="MyMove.DoubleTeam" target="ru.ifmo.se.pokemon.StatusMove">
+      <point x="0.0" y="-47.5" />
+      <point x="1603.5" y="1470.0" />
+      <point x="1855.875" y="1470.0" />
+      <point x="-100.875" y="80.5" />
+    </edge>
+    <edge source="MyMove.HeartStamp" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-47.5" />
+      <point x="415.0" y="1480.0" />
+      <point x="316.648611111111" y="1480.0" />
+      <point x="96.0" y="58.5" />
+    </edge>
+    <edge source="MyMove.DoubleSlap" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-36.5" />
+      <point x="219.5" y="1480.0" />
+      <point x="220.648611111111" y="1480.0" />
+      <point x="0.0" y="58.5" />
+    </edge>
+    <edge source="MyPokemon.Cofagrigus" target="MyPokemon.Yamask">
+      <point x="0.0" y="-25.0" />
+      <point x="0.0" y="25.0" />
+    </edge>
+    <edge source="MyMove.Swagger" target="ru.ifmo.se.pokemon.StatusMove">
+      <point x="0.0" y="-47.5" />
+      <point x="2075.0" y="1480.0" />
+      <point x="1990.375" y="1480.0" />
+      <point x="33.625" y="80.5" />
+    </edge>
+    <edge source="MyPokemon.Electivire" target="MyPokemon.Electabuzz">
+      <point x="0.0" y="-25.0" />
+      <point x="0.0" y="25.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.SpecialMove" target="ru.ifmo.se.pokemon.Move">
+      <point x="0.0" y="-58.5" />
+      <point x="0.0" y="146.5" />
+    </edge>
+    <edge source="MyPokemon.Yamask" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-25.0" />
+      <point x="0.0" y="300.5" />
+    </edge>
+    <edge source="MyMove.IceBeam" target="ru.ifmo.se.pokemon.SpecialMove">
+      <point x="0.0" y="-47.5" />
+      <point x="891.0" y="1480.0" />
+      <point x="974.0" y="1480.0" />
+      <point x="-36.0" y="58.5" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.PhysicalMove" target="ru.ifmo.se.pokemon.Move">
+      <point x="0.0" y="-58.5" />
+      <point x="220.648611111111" y="1264.0" />
+      <point x="915.6666666666666" y="1264.0" />
+      <point x="-94.33333333333337" y="146.5" />
+    </edge>
+    <edge source="MyPokemon.Solrock" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-25.0" />
+      <point x="435.5" y="626.0" />
+      <point x="393.0" y="626.0" />
+      <point x="125.0" y="300.5" />
+    </edge>
+    <edge source="MyMove.EnergyBall" target="ru.ifmo.se.pokemon.SpecialMove">
+      <point x="0.0" y="-47.5" />
+      <point x="1129.0" y="1480.0" />
+      <point x="1046.0" y="1480.0" />
+      <point x="36.0" y="58.5" />
+    </edge>
+    <edge source="MyMove.FocusBlast" target="ru.ifmo.se.pokemon.SpecialMove">
+      <point x="0.0" y="-47.5" />
+      <point x="1367.0" y="1470.0" />
+      <point x="1118.0" y="1470.0" />
+      <point x="108.0" y="58.5" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.StatusMove" target="ru.ifmo.se.pokemon.Move">
+      <point x="0.0" y="-80.5" />
+      <point x="1956.75" y="1264.0" />
+      <point x="1104.3333333333333" y="1264.0" />
+      <point x="94.33333333333326" y="146.5" />
+    </edge>
+    <edge source="MyMove.DoubleKick" target="ru.ifmo.se.pokemon.PhysicalMove">
+      <point x="0.0" y="-36.5" />
+      <point x="66.5" y="1480.0" />
+      <point x="124.648611111111" y="1480.0" />
+      <point x="-96.0" y="58.5" />
+    </edge>
+    <edge source="MyPokemon.Elekid" target="ru.ifmo.se.pokemon.Pokemon">
+      <point x="0.0" y="-25.0" />
+      <point x="82.5" y="626.0" />
+      <point x="143.0" y="626.0" />
+      <point x="-125.0" y="300.5" />
+    </edge>
+    <edge source="MyMove.WorkUp" target="ru.ifmo.se.pokemon.StatusMove">
+      <point x="0.0" y="-47.5" />
+      <point x="2311.5" y="1470.0" />
+      <point x="2057.625" y="1470.0" />
+      <point x="100.875" y="80.5" />
+    </edge>
+    <edge source="MyMove.Confusion" target="ru.ifmo.se.pokemon.SpecialMove">
+      <point x="0.0" y="-47.5" />
+      <point x="653.0" y="1470.0" />
+      <point x="902.0" y="1470.0" />
+      <point x="-108.0" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7727272727272727" x="737.7058823529412" y="393.47058823529414" />
+  <SelectedNodes>
+    <node>ru.ifmo.se.pokemon.StatusMove</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

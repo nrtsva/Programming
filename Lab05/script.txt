@@ -1,0 +1,4 @@
+help
+count_by_head 3 3 3
+remove_first              
+execute_script script.txt
