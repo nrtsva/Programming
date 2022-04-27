@@ -1,0 +1,4 @@
+info 
+filter_contains_name z
+show
+shuffle

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<dragon>
+		<id>6</id>
+		<name>sdth</name>
+		<coordinates>{2314; 235.0}</coordinates>
+		<creationDate>2022-04-25T04:58:24.802154600</creationDate>
+		<age>47</age>
+		<color>GREEN</color>
+		<type>WATER</type>
+		<character></character>
+		<head>{342; 54; 42636457876324}</head>
+	</dragon>
+	<dragon>
+		<id>7</id>
+		<name>dgh</name>
+		<coordinates>{30; 30.0}</coordinates>
+		<creationDate>2022-04-25T06:45:19.690565600</creationDate>
+		<age>19</age>
+		<color>RED</color>
+		<type>AIR</type>
+		<character>EVIL</character>
+		<head>{3; 3; 3}</head>
+	</dragon>
+	<dragon>
+		<id>8</id>
+		<name>dsg</name>
+		<crdinates>{5; 11235.0}</coordinates>
+		<creationDate>2022-04-25T14:22:23.679826</creationDate>
+		<age>35</age>
+		<color>RED</color>
+		<type>AIR</type>
+		<character>EVIL</character>
+		<head>{35; 64; 3}</head>
+	</dragon>
+	<dragon>
+		<id>9</id>
+		<name>lolox</name>
+		<coordinates>{43; 45.0}</coordinates>
+		<creationDate>2022-04-25T14:41:13.496873700</creationDate>
+		<age>5</age>
+		<color>GREEN</color>
+		<type>WATER</type>
+		<character>WISE</character>
+		<head>{43; 768; 3423}</head>
+	</dragon>
+	<dragon>
+		<id>10</id>
+		<name>hu</name>
+		<coordinates>{34; 334.0}</coordinates>
+		<creationDate>2022-04-26T11:14:40.312444100</creationDate>
+		<age>42</age>
+		<color>RED</color>
+		<type>AIR</type>
+		<character>WISE</character>
+		<head>{324; 134; 235}</head>
+	</dragon>
+</set>
